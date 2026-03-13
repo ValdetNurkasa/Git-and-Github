@@ -1,0 +1,24 @@
+Git and Github Homework
+
+1. "Initialize a repo"
+![Init](Init.png)
+
+2. "Add a file (e.g., project.txt) and make several commits with unclear commit messages such as'update", 'stuff", 'final'."  
+   ![Add File](<Add File.png>)
+
+3. "Clean up the history by rewriting or squashing commits to have meaningful commit messages"  
+   ![Clean Up](<Clean Up.png>)
+
+3.1. "Clean up the history by rewriting or squashing commits to have meaningful commit messages. VSCode"  
+   ![CleanUp VSCode](<CleanUp VSCode.png>)
+
+4. " Simulate a mistake by adding a new commit and then removing it (so it looks like the commit is lost)."  
+   ![Mistake](Mistake.png)
+
+5. "Recover the lost commit using Git tools"
+6. "Create a new branch from the recovered commit"
+7. "Define a custom Git alias that makes it easier to view the commit history in a clear and visual format."
+   ![Recover, Create Branch, Alias](<Recover, Create Branch, Alias.png>)
+
+8. "Tag the cleaned-up version of the project as version 1.0"  
+   ![V1.0](V1.0.png)
